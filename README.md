@@ -10,8 +10,9 @@ Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division
 **Requirements**:
 Python, 
 Django, 
+pyttsx3 library,
 speech_recognition library,
-pyttsx3 library
+
 
 **Usage**:
 Operation Input: Speak the operation you want to perform (e.g., "addition", "subtraction", "multiplication", "division").
