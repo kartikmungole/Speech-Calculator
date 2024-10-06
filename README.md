@@ -32,8 +32,8 @@ The application will display and say: "The result of addition is 8".
 
 
 **Project Structure**:
-calculator/: Contains the Django app for the speech calculator.
-templates/calculator/: Contains HTML templates for the web interface.
-views.py: Contains the logic for handling speech recognition and arithmetic operations.
-urls.py: Maps URLs to views.
-requirements.txt: Lists the Python packages required to run the project.
+* calculator/: Contains the Django app for the speech calculator.
+* templates/calculator/: Contains HTML templates for the web interface.
+* views.py: Contains the logic for handling speech recognition and arithmetic operations.
+* urls.py: Maps URLs to views.
+* requirements.txt: Lists the Python packages required to run the project.
