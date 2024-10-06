@@ -3,7 +3,6 @@
 The Speech Calculator is a Django-based web application that allows users to perform basic arithmetic operations using speech recognition and text-to-speech technologies. Users can interact with the application by speaking the desired operation and numbers, and the calculator will provide both visual and spoken feedback. It gives output in speech as well as it shows output on web page.
 
 
-
 **Features**:
 **Text-to-Speech**: The calculator speaks out the result of the calculations.
 Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division.
