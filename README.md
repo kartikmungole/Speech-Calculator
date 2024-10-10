@@ -10,10 +10,10 @@ Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division
 
 
 **Requirements**:
-Python, 
-Django, 
-pyttsx3 library,
-speech_recognition library,
+* Python, 
+* Django, 
+* pyttsx3 library,
+* speech_recognition library,
 
 
 **Usage**:
