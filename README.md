@@ -17,9 +17,9 @@ Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division
 
 
 **Usage**:
-Operation Input: Speak the operation you want to perform (e.g., "addition", "subtraction", "multiplication", "division").
-Number Input: Speak the first and second numbers.
-Result: The application will display the result on the webpage and speak it aloud.
+* Operation Input: Speak the operation you want to perform (e.g., "addition", "subtraction", "multiplication", "division").
+* Number Input: Speak the first and second numbers.
+* Result: The application will display the result on the webpage and speak it aloud.
 
 
 **Example**:
