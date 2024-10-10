@@ -9,7 +9,6 @@ Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division
 **Speech Recognition**: Perform calculations by speaking the desired operation and numbers.
 
 
-
 **Requirements**:
 Python, 
 Django, 
