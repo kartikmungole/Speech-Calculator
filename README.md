@@ -23,11 +23,11 @@ Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division
 
 
 **Example**:
-Open the application.
-Speak: "addition".
-Speak: "5".
-Speak: "3".
-The application will display and say: "The result of addition is 8".
+* Open the application.
+* Speak: "addition".
+* Speak: "5".
+* Speak: "3".
+* The application will display and say: "The result of addition is 8".
 
 
 **Project Structure**:
