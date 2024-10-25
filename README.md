@@ -21,7 +21,7 @@ Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division
 * Result: The application will display the result on the webpage and speak it aloud.
 
 
-**Example**:
+## **Example**:
 * Open the application.
 * Speak: "addition".
 * Speak: "5".
@@ -29,7 +29,7 @@ Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division
 * The application will display and say: "The result of addition is 8".
 
 
-**Project Structure**:
+## **Project Structure**:
 * calculator/: Contains the Django app for the speech calculator.
 * templates/calculator/: Contains HTML templates for the web interface.
 * views.py: Contains the logic for handling speech recognition and arithmetic operations.
